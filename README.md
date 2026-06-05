@@ -19,7 +19,7 @@ A simple and responsive Analog Clock built using HTML, CSS, and JavaScript. The 
 ```
 project-folder/
 │
-├── index.html
+├── main.html
 ├── styles.css
 ├── script.js
 └── README.md
