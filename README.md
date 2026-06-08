@@ -7,7 +7,6 @@ A simple and responsive Analog Clock built using HTML, CSS, and JavaScript. The 
 * Real-time analog clock
 * Smooth movement of hour, minute, and second hands
 * Multiple clock face themes:
-
   * Dark
   * Blue
   * Green
@@ -51,7 +50,7 @@ git clone https://github.com/ashifzeeya097-Dev/Analog-Clock
 
 2. Open the project folder.
 
-3. Launch `index.html` in your browser.
+3. Launch `main.html` in your browser.
 
 No additional dependencies are required.
 
