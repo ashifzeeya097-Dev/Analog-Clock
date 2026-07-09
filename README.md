@@ -2,6 +2,10 @@
 
 A simple and responsive Analog Clock built using HTML, CSS, and JavaScript. The clock displays the current time in real-time and includes a theme switcher that changes the color of the clock face.
 
+# Live Demo Link
+
+https://ashifzeeya097-dev.github.io/Analog-Clock/
+
 ## Features
 
 * Real-time analog clock
